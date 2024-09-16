@@ -1,0 +1,32 @@
+table {
+  border-collapse: collapse;
+  width: 50%;
+  justify-content: center;
+  margin: auto;
+  background-image: linear-gradient(to right, white, lightgray, gray, darkgray, white, lightgray, gray, darkgray, white, lightgray, gray, darkgray, white, lightgray, gray, darkgray, black);
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+th {
+  text-align: left;
+  background-color: darkgrey;
+}
+body {
+  background-image: url('images/background3.avif');
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'Arial';
+  font-width: 900px;
+}
+footer {
+  font-family: 'Lucida Handwrite', cursive;
+  color: white;
+  font-size: 8px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
