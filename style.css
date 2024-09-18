@@ -17,7 +17,7 @@ body {
   background-image: url('images/background3.avif');
 }
 h1 {
-  color: black;
+  color: white;
   text-align: center;
   font-family: 'Arial';
   font-width: 900px;
@@ -29,4 +29,8 @@ footer {
   position: fixed;
   bottom: 0;
   right: 0;
+}
+.button:hover{
+  color: white;
+  background-color: black;
 }
